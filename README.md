@@ -41,6 +41,7 @@ Before you begin, ensure you have:
    ```bash
    terraform --version
    ```
+   ![Alt text](images/terraform_version.png?raw=true "Terraform Version")
 
 2. **AWS CLI configured** with valid credentials
    ```bash
