@@ -51,6 +51,7 @@ Before you begin, ensure you have:
    - AWS Access Key ID
    - AWS Secret Access Key
    - Default region (e.g., us-east-1)
+   ![Alt text](images/aws_configure.png?raw=true "Terraform Version")
 
 3. **Appropriate AWS permissions** to create:
    - EC2 instances
@@ -80,6 +81,7 @@ terraform init
 - Downloads AWS provider plugin
 - Initializes backend
 - Displays "Terraform has been successfully initialized!"
+![Alt text](images/terraform_init.png?raw=true "Terraform Version")
 
 ### Step 3: Review the Execution Plan
 
